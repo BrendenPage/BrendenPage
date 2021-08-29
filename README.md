@@ -1,6 +1,8 @@
 Hi, I’m @BrendenPage
-- I'm pursuing a degree in Computer Science and Engineering
+- Currently pursuing a degree in Computer Science and Engineering
 - Recently, I've been working on projects for classes, each of which is listed below along with a brief description about the project and my part
+- Email Brendenpage@gmail.com for access to view these projects, as they must remain private to uphold student conduct codes.
+
 
 UMessage
 - I implemented the backend of datastructures (AVL trees, BST, Hash tables, Tries, fixed size circular arrays, using efficient algorithms
