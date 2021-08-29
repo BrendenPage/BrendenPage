@@ -1,5 +1,5 @@
 Hi, I’m @BrendenPage
-- I'm interested in Computer Science and Engineering
+- I'm pursuing a degree in Computer Science and Engineering
 - Recently, I've been working on projects for classes, each of which is listed below along with a brief description about the project and my part
 
 UMessage
